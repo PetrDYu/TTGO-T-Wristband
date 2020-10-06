@@ -3,8 +3,8 @@
 #include <rom/rtc.h>
 #include "wristband-tft.hpp"
 #include "wristband-ota.hpp"
-#include "clock.hpp"
-#include "pages.hpp"
+#include "include/clock.hpp"
+#include "include/pages.hpp"
 #include "mpu.hpp"
 
 void setup()
